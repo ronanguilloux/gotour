@@ -1,0 +1,1 @@
+go install gotour/exercices && go install gotour/main && bin/main
