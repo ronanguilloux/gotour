@@ -8,6 +8,5 @@ func main() {
 
     exercices.E3()
     
-
     fmt.Printf("\nDone.\n")
 }
