@@ -5,7 +5,7 @@ GOTOUR
 Documentation
 -------------
 
-The main tutorial is here : http://tour.golang.org
+The main tutorial is here : [A Tour of Go](http://tour.golang.org)
 
 
 Build & run
@@ -17,8 +17,12 @@ Install golang, then use the go CLI:
     go install gotour/main
     bin/main
 
+Or just run this: (it's the same)
+
+    bin/build
+
 
 License
 -------
 
-GNU AFFERO GENERAL PUBLIC LICENSE Version 3
+[GNU Affero General Public License Version 3](http://www.gnu.org/licenses/agpl-3.0.txt)

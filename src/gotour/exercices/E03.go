@@ -5,6 +5,6 @@ import (
     "math"
 )
 
-func E3() {
+func E03() {
     fmt.Println("Happy", math.Pi, "Day")
 }
