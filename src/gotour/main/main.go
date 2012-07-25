@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-    exercices.E_1()
-    fmt.Printf("Done.")
+    exercices.E3()
+    fmt.Printf("\nDone.\n")
 }
