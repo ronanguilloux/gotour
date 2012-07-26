@@ -17,8 +17,8 @@ func main() {
     exercices.E09()
     exercices.E10()
     exercices.E11()
-    exercices.E12()
-    exercices.E13()
+//    exercices.E12()
+//    exercices.E13()
 
     fmt.Println("\nDone.")
 }
