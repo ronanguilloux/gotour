@@ -8,6 +8,6 @@ func split(sum int) (x, y int) {
     return 
 }
 
-func E9() {
+func E09() {
     fmt.Println(split(17))
 }

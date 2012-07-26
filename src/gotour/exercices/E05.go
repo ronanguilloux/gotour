@@ -5,6 +5,6 @@ import(
     "math"
 )
 
-func E5() {
+func E05() {
     fmt.Println(math.Pi)
 }

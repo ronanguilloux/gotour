@@ -6,7 +6,7 @@ func swap(x,y string) (string, string) {
     return x, y
 }
 
-func E8() {
+func E08() {
     a, b := swap("hello", "world")
     fmt.Println(a,b);
 }
