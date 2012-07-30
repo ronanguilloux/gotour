@@ -28,6 +28,14 @@ func main() {
     exercices.E20()
     exercices.E21()
     exercices.E22()
+    exercices.E23()
+    exercices.E24()
+    exercices.E25()
+    exercices.E26()
+    exercices.E27()
+    exercices.E28()
+    exercices.E29()
+    exercices.E30()
 
     fmt.Println("\nDone.")
 }
