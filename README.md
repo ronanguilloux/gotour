@@ -11,7 +11,16 @@ The main tutorial is here : [A Tour of Go](http://tour.golang.org)
 Build & run
 -----------
 
-Install golang, then use the go CLI:
+Install golang
+
+    sudo apt-get install golang
+
+Set GOPATH to the current gotour local repo
+
+    cd gotour
+    export GOPATH=`pwd`:${PATH}
+
+Build it:
 
     go install gotour/exercices
     go install gotour/main
