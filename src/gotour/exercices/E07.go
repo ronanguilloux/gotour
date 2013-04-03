@@ -1,5 +1,5 @@
 package exercices
-    
+
 import "fmt"
 
 // add should not be redeclared

@@ -1,5 +1,5 @@
 package exercices
-    
+
 import "fmt"
 
 // see http://golang.org/doc/articles/gos_declaration_syntax.html

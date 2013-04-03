@@ -8,6 +8,7 @@ func main() {
     fmt.Println("Start.\n")
 
     // Exercice suite:
+    exercices.E01()
     exercices.E03()
     exercices.E04()
     exercices.E05()
