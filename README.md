@@ -1,37 +1,28 @@
-GOTOUR
-======
+# GOTOUR
+
+- The main tutorial is here : [A Tour of Go](http://tour.golang.org)
+- Contents are here: https://code.google.com/p/go-tour/source/browse/#hg%2Fcontent
 
 
-Documentation
--------------
+## Build
 
-The main tutorial is here : [A Tour of Go](http://tour.golang.org)
+```
+bn/build
+```
 
+## Run
 
-Build & run
------------
+```
+go run src/gotour/main/main.go  
+```
 
-Install golang
+or from a recent build:
 
-    sudo apt-get install golang
+```
+bin/main
+```
 
-Set GOPATH to the current gotour local repo
+## License
 
-    cd gotour
-    export GOPATH=`pwd`:${PATH}
+See [Go Tour License](https://code.google.com/p/go-tour/source/browse/LICENSE)
 
-Build it:
-
-    go install gotour/exercices
-    go install gotour/main
-    bin/main
-
-Or just run this: (it's the same)
-
-    bin/build
-
-
-License
--------
-
-[GNU Affero General Public License Version 3](http://www.gnu.org/licenses/agpl-3.0.txt)

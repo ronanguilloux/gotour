@@ -2,9 +2,11 @@ package exercices
 
 import (
     "fmt"
+    "time"
     "math"
 )
 
-func E03() {
+func Welcome3() {
     fmt.Println("Happy", math.Pi, "Day")
+    fmt.Println("time is", time.Now())
 }
